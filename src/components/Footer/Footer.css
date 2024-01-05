@@ -1,0 +1,39 @@
+.spantext {
+  color: orangered;
+}
+
+.Btn-submit {
+ 
+  /* top: 50%;
+  left: 50%; */
+  
+  background-color: orangered;
+  color: white;
+  border-radius: 63px;
+  padding:100px;
+  width: 175px;
+  height: 72px;
+  margin: 0 -50px 0 0;
+
+}
+.inp-div {
+  position: relative;
+  width: 100%;
+  height: 94px;
+  border-radius: 63px;
+  padding: 20px;
+}
+.inp-div::placeholder {
+    color: red;
+  font-size: 1.2em;
+  font-style: italic;
+  margin-left: 10px;
+  /* color: gray; */
+}
+/* .para li {
+    list-style: disc    ;
+} */
+
+th,td {
+    text-align: center
+}
