@@ -1,0 +1,35 @@
+datalist {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  writing-mode: vertical-lr;
+  width: 500px;
+}
+datalist option {
+  writing-mode: horizontal-tb;
+}
+
+option {
+  padding: 0;
+}
+
+input[type="range"] {
+  color: orangered;
+  width: 500px;
+  margin: 0;
+}
+.ptext {
+  color: #000;
+  font-family: Open Sauce Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.btn_side {
+  width: 189px;
+  height: 60px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #f1f5f5;
+}
