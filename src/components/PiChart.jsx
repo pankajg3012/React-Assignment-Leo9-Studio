@@ -31,11 +31,11 @@ const PiChart = () => {
         </div>
         <div>
         <p className="ptext">NET P&L</p>
-          <button>32,654,78</button>
+          <button>12,654,78</button>
         </div>
         <div>
         <p className="ptext">Total Tax & ChargesL</p>
-          <button>32,654,78</button>
+          <button>42,654,78</button>
         </div>
       </div>
     </div>
