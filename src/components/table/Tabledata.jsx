@@ -4,7 +4,7 @@ import "./Tabledata.css";
 
 const Tabledata = () => {
   return (
-    <div className="w-[600px] h-[300px] bg-purple rounded-md flex justify-center items-center  ">
+    <div className="w-[600px] h-[300px] bg-purple rounded-md flex justify-center items-center  sm:w-96  ">
       <div>
         <h2 className="text-center text-purple">Analysis</h2>
       </div>
