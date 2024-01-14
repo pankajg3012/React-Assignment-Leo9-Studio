@@ -13,8 +13,8 @@ const Modal = ({ setShowModal }) => {
   };
 
   return (
-    <div className="container fixed inset-0 bg-black text-white z-10 bg-opacity-30 backdrop-blur-sm flex justify-center items-center">
-      <div className="mt-10 flex flex-col gap-5 text-white ">
+    <div className="container flex justify-center fixed inset-0 bg-black text-white z-10 bg-opacity-30 backdrop-blur-sm sm:flex Sm:justify-center items-center">
+      <div className="mt-10 flex flex-col justify-center items-center md:flex md:justify-center md:items-center md:flex-col gap-5 text-white ">
         <button
           type="button"
           className="place-self-end"

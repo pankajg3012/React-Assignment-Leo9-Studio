@@ -5,7 +5,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 const Navbar = () => {
   return (
     <div>
-      <header className="bg-primary rounded">
+      <header className="bg-primary rounded-[2px]">
         <div className="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
           <a href="">
             <img src={logo} alt="logo" />
