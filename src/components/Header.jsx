@@ -4,7 +4,11 @@ const Header = () => {
 
   return (
      <div className="w-full min-h-48 px-5 bg-black  lg:flex-col  pt-3">
+<<<<<<< HEAD
       <h1 className="text-ligttGray lg:ml-6 sm:text-start sm:pt-3">Calculator</h1>
+=======
+      <h1 className="text-ligttGray text-3xl lg:ml-6 sm:text-start sm:pt-3">Calculator</h1>
+>>>>>>> 3fc9adc51b37f76bf0cbbd9427662ca089ef36bf
       <br />
       <div className="w-full flex justify-evenly items-center sm:flex sm:w-auto ">
         <button
