@@ -282,18 +282,18 @@ const Footer = () => {
             </div>
           </div>
           <div>
-            <div className="mt-6">
+            <div className="mt-6 container">
               {" "}
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium text-wrap ">
                 SEBI Stock Broker Registration No: INZ000311938| Depository
                 Participant (CDSL) ID: IN-DP-000-0000 | Membership No. : BSE &
                 ICCL: 6818 MCX: 57250
               </p>
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium sm:w-96 sm:text-wrap">
                 Corporate Office: 203, Cello Platina, FC Road, Shivaji Nagar,
                 Pune MH 411005 IN.
               </p>
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium  w-96 sm:text-wrap">
                 Procedure to file a complaint on SEBI SCORES: Register on SCORES
                 portal. Mandatory details for filing complaints on SCORES: Name,
                 PAN, Address, Mobile Number, E-mail ID. Benefits: Effective
@@ -301,30 +301,30 @@ const Footer = () => {
               </p>
             </div>
             <div className="container">
-              <h6 className="text-ligttGray list-disc text-[14px] sm:font-medium">
+              <h6 className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                 RISK DISCLOSURES ON DERIVATIVES
               </h6>
               <ul className="para">
-                <li className="text-ligttGray list-disc text-[14px] sm:font-medium">
+                <li className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                   9 out of 10 individual traders in equity Futures and Options
                   Segment incurred net losses.
                 </li>
-                <li className="text-ligttGray list-disc text-[14px] sm:font-medium">
+                <li className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                   On an average, loss makers registered net trading loss close
                   to ₹ 50,000
                 </li>
-                <li className="text-ligttGray list-disc text-[14px] sm:font-medium">
+                <li className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                   Over and above the net trading losses incurred, loss makers
                   expended an additional 28% of net trading losses as
                   transaction costs.
                 </li>
-                <li className="text-ligttGray list-disc text-[14px] sm:font-medium">
+                <li className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                   Those making net trading profits, incurred between 15% to 50%
                   of such profits as transaction cost.
                 </li>
               </ul>
               <br />
-              <p className="text-ligttGray list-disc text-[14px] sm:font-medium">
+              <p className="text-ligttGray list-disc text-[14px] sm:font-medium sm:text-wrap">
                 Attention investors: 1) Stock brokers can accept securities as
                 margins from clients only by way of pledge in the depository
                 system w.e.f September 01, 2020. 2) Update your e-mail and phone
@@ -339,7 +339,7 @@ const Footer = () => {
                 NSDL/CDSL every month.
               </p>
               <br />
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                 Attention Investors: As per NSE circular dated July 6, 2022, BSE
                 circular dated July 6, 2022, MCX circular dated July 11, 2022
                 investors are cautioned to abstain from dealing in any schemes
@@ -349,34 +349,34 @@ const Footer = () => {
               </p>
               <br />
               <ol type="A">
-                <li className="text-ligttGray text-[14px] sm:font-medium">
+                <li className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                   {" "}
                   Sharing i) trading credentials – login id & passwords
                   including OTP’s., ii) trading strategies, iii) position
                   details.
                 </li>
-                <li className="text-ligttGray text-[14px] sm:font-medium">
+                <li className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                   Trading in leveraged products /derivatives like Options
                   without proper understanding, which could lead to losses.
                 </li>
-                <li className="text-ligttGray text-[14px] sm:font-medium">
+                <li className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                   {" "}
                   Writing/ selling options or trading in option strategies based
                   on tips, without basic knowledge & understanding of the
                   product and its risks
                 </li>
-                <li className="text-ligttGray text-[14px] sm:font-medium">
+                <li className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                   Dealing in unsolicited tips through Whatsapp, Telegram,
                   Instagram, YouTube, Facebook, SMS, calls, etc.
                 </li>
-                <li className="text-ligttGray text-[14px] sm:font-medium">
+                <li className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                   Trading / Trading in “Options” based on recommendations from
                   unauthorised / unregistered investment advisors and
                   influencers.
                 </li>
               </ol>
               <br />
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                 Issued in the interest of investors: Prevent Unauthorised
                 transactions in your trading and Demat account. Update your
                 mobile numbers/email IDs with Trdez. Receive alerts and
@@ -393,7 +393,7 @@ const Footer = () => {
                 remains in the investor's account.
               </p>
               <br />
-              <p className="text-ligttGray text-[14px] sm:font-medium">
+              <p className="text-ligttGray text-[14px] sm:font-medium sm:text-wrap">
                 Kindly, read the Advisory Guidelines for investors as prescribed
                 by the exchange with reference to their circular dated 27th
                 August, 2021 regarding investor awareness and safeguarding
