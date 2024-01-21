@@ -13,9 +13,9 @@ const Home = () => {
 
   return (
     <div>
-      <div className="bg-slate-400  grid-cols-2  lg:flex lg:flex-row md:flex-row lg:justify-evenly mt-8 sm:flex-col items-center justify-center">
+      <div className="bg-slate-400  grid-cols-2  lg:flex  lg:flex-row md:flex-row lg:justify-evenly mt-8 sm:flex-col sm:justify-center sm:items-center items-center justify-center">
         <div className="lg:flex md:flex  sm:flex-col">
-          <div className="w-full lg:flex lg:flex-row md:flex md:flex-row sm:flex-col px-5 md:justify-center md:items-center ">
+          <div className="w-full lg:flex lg:flex-row md:flex-row sm:flex-col sm:justify-center sm:px-10 sm:items-center  md:justify-center md:items-center ">
             <h1 className="text-black text-3xl  font-extrabold capitalize mx-10 mt-2 md:mt-2  ">
               Equity Delivery
             </h1>

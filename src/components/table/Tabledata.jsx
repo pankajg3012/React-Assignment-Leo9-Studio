@@ -4,12 +4,10 @@ import "./Tabledata.css";
 
 const Tabledata = () => {
   return (
-    <div className="w-[600px] h-[300px] bg-purple rounded-md flex justify-center items-center  sm:w-96  ">
-      <div>
-        <h2 className="text-center text-purple">Analysis</h2>
-      </div>
+    <div className="w-[600px] h-[300px] bg-Orange rounded-md flex justify-center items-center  sm:w-96  ">
+     
 
-      <table className="w-full border-0 font-medium py-4 text-white rounded-md ">
+      <table className="w-full border-0 font-medium py-4 text-white rounded-md sm:w-96 ">
         <tr className="mt-4">
           <th></th>
           <th>NSE</th>
